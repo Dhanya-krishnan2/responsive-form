@@ -17,6 +17,7 @@ body {
     text-align: center;
     box-shadow: 0 0 20px #000000b3;
     font-family: "Montserrat";
+    position: right;
     float: right;
 }
 .contact-form h1 {
@@ -44,7 +45,7 @@ body {
 }
 .form-field button{
      font-weight: bolder;
-     font-size: 100%;
+     font-size: 200%;
     font-family: "Montserrat";
     color: white;
     background-color: orange;
